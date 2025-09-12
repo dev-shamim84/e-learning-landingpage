@@ -1,0 +1,402 @@
+[
+  {
+    "id": "1",
+    "title": "Full Stack Web Development Bootcamp",
+    "category": "Web",
+    "details": "This intensive bootcamp takes you from absolute beginner to professional full-stack developer...",
+    "instructor": {
+      "name": "Shamim Hasan",
+      "designation": "Tech Lead",
+      "company": "NextGen Software",
+      "image": "https://example.com/images/arif.png"
+    },
+    "lessons": 60,
+    "assignments": 15,
+    "projects": 10,
+    "studentsJoined": 520,
+    "courseType": "Live Class",
+    "rating": 4.9,
+    "batch": "Batch-4",
+    "coverImage": "https://example.com/cover/web1.png"
+  },
+  {
+    "id": "2",
+    "title": "Frontend Development with React",
+    "category": "Web",
+    "details": "This course provides a step-by-step journey into the world of modern frontend development using React...",
+    "instructor": {
+      "name": "Amit Hasan",
+      "designation": "Frontend Engineer",
+      "company": "Creative Web Agency",
+      "image": "https://example.com/images/nusrat.png"
+    },
+    "lessons": 35,
+    "assignments": 10,
+    "projects": 6,
+    "studentsJoined": 400,
+    "courseType": "Recorded",
+    "rating": 4.7,
+    "batch": "Batch-2",
+    "coverImage": "https://example.com/cover/web2.png"
+  },
+  {
+    "id": "3",
+    "title": "Backend Development with Node.js",
+    "category": "Web",
+    "details": "Learn how to design and build secure, scalable, and high-performing backend systems with Node.js...",
+    "instructor": {
+      "name": "Abir Khan Rabbi",
+      "designation": "Software Engineer",
+      "company": "CloudTech BD",
+      "image": "https://example.com/images/tanvir.png"
+    },
+    "lessons": 40,
+    "assignments": 12,
+    "projects": 7,
+    "studentsJoined": 350,
+    "courseType": "Live Class",
+    "rating": 4.8,
+    "batch": "Batch-1",
+    "coverImage": "https://example.com/cover/web3.png"
+  },
+  {
+    "id": "4",
+    "title": "MERN Stack Development",
+    "category": "Web",
+    "details": "Master the complete MERN stack—MongoDB, Express.js, React, and Node.js—in this comprehensive course...",
+    "instructor": {
+      "name": "Rahim Ahmed",
+      "designation": "Full Stack Developer",
+      "company": "Tech Innovators Ltd.",
+      "image": "https://example.com/images/rahim.png"
+    },
+    "lessons": 55,
+    "assignments": 14,
+    "projects": 8,
+    "studentsJoined": 600,
+    "courseType": "Live Class",
+    "rating": 4.9,
+    "batch": "Batch-3",
+    "coverImage": "https://example.com/cover/web4.png"
+  },
+  {
+    "id": "5",
+    "title": "Advanced JavaScript Mastery",
+    "category": "Web",
+    "details": "This course dives deep into advanced JavaScript concepts...",
+    "instructor": {
+      "name": "Sadia Karim",
+      "designation": "Senior JavaScript Engineer",
+      "company": "GlobalSoft Solutions",
+      "image": "https://example.com/images/sadia.png"
+    },
+    "lessons": 30,
+    "assignments": 8,
+    "projects": 4,
+    "studentsJoined": 280,
+    "courseType": "Recorded",
+    "rating": 4.6,
+    "batch": "Batch-2",
+    "coverImage": "https://example.com/cover/web5.png"
+  },
+  {
+    "id": "6",
+    "title": "Digital Marketing Fundamentals",
+    "category": "Marketing",
+    "details": "This course introduces the world of digital marketing...",
+    "instructor": {
+      "name": "Mehedi Rahman",
+      "designation": "Marketing Strategist",
+      "company": "BrightMark Digital",
+      "image": "https://example.com/images/mehedi.png"
+    },
+    "lessons": 25,
+    "assignments": 6,
+    "projects": 3,
+    "studentsJoined": 300,
+    "courseType": "Live Class",
+    "rating": 4.7,
+    "batch": "Batch-1",
+    "coverImage": "https://example.com/cover/marketing1.png"
+  },
+  {
+    "id": "7",
+    "title": "SEO Mastery",
+    "category": "Marketing",
+    "details": "This course teaches everything about Search Engine Optimization (SEO)...",
+    "instructor": {
+      "name": "Sharmin Akter",
+      "designation": "SEO Specialist",
+      "company": "RankUp Agency",
+      "image": "https://example.com/images/sharmin.png"
+    },
+    "lessons": 20,
+    "assignments": 5,
+    "projects": 2,
+    "studentsJoined": 220,
+    "courseType": "Recorded",
+    "rating": 4.5,
+    "batch": "Batch-2",
+    "coverImage": "https://example.com/cover/marketing2.png"
+  },
+  {
+    "id": "8",
+    "title": "Social Media Marketing",
+    "category": "Marketing",
+    "details": "Learn how to grow businesses using platforms like Facebook, Instagram, TikTok...",
+    "instructor": {
+      "name": "Tariq Hasan",
+      "designation": "Social Media Manager",
+      "company": "BuzzWorld Media",
+      "image": "https://example.com/images/tariq.png"
+    },
+    "lessons": 28,
+    "assignments": 7,
+    "projects": 3,
+    "studentsJoined": 310,
+    "courseType": "Live Class",
+    "rating": 4.6,
+    "batch": "Batch-3",
+    "coverImage": "https://example.com/cover/marketing3.png"
+  },
+  {
+    "id": "9",
+    "title": "Content Marketing Strategy",
+    "category": "Marketing",
+    "details": "This course explores the art of creating and distributing valuable content...",
+    "instructor": {
+      "name": "Farhana Islam",
+      "designation": "Content Marketing Specialist",
+      "company": "StoryCraft Ltd.",
+      "image": "https://example.com/images/farhana.png"
+    },
+    "lessons": 18,
+    "assignments": 4,
+    "projects": 2,
+    "studentsJoined": 180,
+    "courseType": "Recorded",
+    "rating": 4.4,
+    "batch": "Batch-1",
+    "coverImage": "https://example.com/cover/marketing4.png"
+  },
+  {
+    "id": "10",
+    "title": "Google Ads & PPC Advertising",
+    "category": "Marketing",
+    "details": "This hands-on course covers everything about Google Ads and PPC campaigns...",
+    "instructor": {
+      "name": "Rafiul Hasan",
+      "designation": "PPC Campaign Manager",
+      "company": "AdPro Digital",
+      "image": "https://example.com/images/rafiul.png"
+    },
+    "lessons": 22,
+    "assignments": 5,
+    "projects": 3,
+    "studentsJoined": 260,
+    "courseType": "Live Class",
+    "rating": 4.8,
+    "batch": "Batch-2",
+    "coverImage": "https://example.com/cover/marketing5.png"
+  },
+  {
+    "id": "11",
+    "title": "UI/UX Design Essentials",
+    "category": "Design",
+    "details": "Learn the principles of user interface and user experience design...",
+    "instructor": {
+      "name": "Mahmudul Hasan",
+      "designation": "UI/UX Designer",
+      "company": "PixelCraft Studio",
+      "image": "https://example.com/images/mahmud.png"
+    },
+    "lessons": 30,
+    "assignments": 7,
+    "projects": 4,
+    "studentsJoined": 250,
+    "courseType": "Live Class",
+    "rating": 4.7,
+    "batch": "Batch-1",
+    "coverImage": "https://example.com/cover/design1.png"
+  },
+  {
+    "id": "12",
+    "title": "Graphic Design Masterclass",
+    "category": "Design",
+    "details": "This course covers typography, color theory, branding, and logo design...",
+    "instructor": {
+      "name": "Sabrina Alam",
+      "designation": "Graphic Designer",
+      "company": "Designify Agency",
+      "image": "https://example.com/images/sabrina.png"
+    },
+    "lessons": 40,
+    "assignments": 10,
+    "projects": 6,
+    "studentsJoined": 300,
+    "courseType": "Recorded",
+    "rating": 4.6,
+    "batch": "Batch-2",
+    "coverImage": "https://example.com/cover/design2.png"
+  },
+  {
+    "id": "13",
+    "title": "Motion Graphics & Animation",
+    "category": "Design",
+    "details": "Students will learn the fundamentals of animation and motion design...",
+    "instructor": {
+      "name": "Fahim Khan",
+      "designation": "Motion Designer",
+      "company": "Creative Animations",
+      "image": "https://example.com/images/fahim.png"
+    },
+    "lessons": 25,
+    "assignments": 6,
+    "projects": 4,
+    "studentsJoined": 200,
+    "courseType": "Live Class",
+    "rating": 4.8,
+    "batch": "Batch-1",
+    "coverImage": "https://example.com/cover/design3.png"
+  },
+  {
+    "id": "14",
+    "title": "Product Design with Figma",
+    "category": "Design",
+    "details": "This course focuses on designing user-friendly digital products...",
+    "instructor": {
+      "name": "Ruhul Amin",
+      "designation": "Product Designer",
+      "company": "NextUI Labs",
+      "image": "https://example.com/images/ruhul.png"
+    },
+    "lessons": 32,
+    "assignments": 8,
+    "projects": 5,
+    "studentsJoined": 270,
+    "courseType": "Recorded",
+    "rating": 4.5,
+    "batch": "Batch-3",
+    "coverImage": "https://example.com/cover/design4.png"
+  },
+  {
+    "id": "15",
+    "title": "Advanced Photoshop for Creatives",
+    "category": "Design",
+    "details": "Dive deep into Adobe Photoshop with advanced photo manipulation...",
+    "instructor": {
+      "name": "Niloy Dutta",
+      "designation": "Senior Graphic Artist",
+      "company": "Artify Studio",
+      "image": "https://example.com/images/niloy.png"
+    },
+    "lessons": 36,
+    "assignments": 9,
+    "projects": 5,
+    "studentsJoined": 230,
+    "courseType": "Live Class",
+    "rating": 4.7,
+    "batch": "Batch-2",
+    "coverImage": "https://example.com/cover/design5.png"
+  },
+  {
+    "id": "16",
+    "title": "Entrepreneurship & Startup Strategy",
+    "category": "Business",
+    "details": "Learn how to develop business ideas, create a startup plan, secure funding...",
+    "instructor": {
+      "name": "Abdullah Al Mamun",
+      "designation": "Startup Mentor",
+      "company": "Venture Hub",
+      "image": "https://example.com/images/mamun.png"
+    },
+    "lessons": 30,
+    "assignments": 7,
+    "projects": 3,
+    "studentsJoined": 280,
+    "courseType": "Live Class",
+    "rating": 4.8,
+    "batch": "Batch-1",
+    "coverImage": "https://example.com/cover/business1.png"
+  },
+  {
+    "id": "17",
+    "title": "Financial Management for Businesses",
+    "category": "Business",
+    "details": "This course covers budgeting, forecasting, investment strategies...",
+    "instructor": {
+      "name": "Shamima Sultana",
+      "designation": "Financial Analyst",
+      "company": "FinCorp Ltd.",
+      "image": "https://example.com/images/shamima.png"
+    },
+    "lessons": 28,
+    "assignments": 6,
+    "projects": 3,
+    "studentsJoined": 240,
+    "courseType": "Recorded",
+    "rating": 4.6,
+    "batch": "Batch-2",
+    "coverImage": "https://example.com/cover/business2.png"
+  },
+  {
+    "id": "18",
+    "title": "Leadership & Management Skills",
+    "category": "Business",
+    "details": "Students will learn essential leadership techniques, team management...",
+    "instructor": {
+      "name": "Hasan Mahmud",
+      "designation": "Business Coach",
+      "company": "Inspire Consulting",
+      "image": "https://example.com/images/hasan.png"
+    },
+    "lessons": 35,
+    "assignments": 8,
+    "projects": 4,
+    "studentsJoined": 260,
+    "courseType": "Live Class",
+    "rating": 4.7,
+    "batch": "Batch-3",
+    "coverImage": "https://example.com/cover/business3.png"
+  },
+  {
+    "id": "19",
+    "title": "Project Management Professional (PMP) Prep",
+    "category": "Business",
+    "details": "Prepare for the PMP certification with a detailed guide...",
+    "instructor": {
+      "name": "Rashedul Karim",
+      "designation": "PMP Certified Trainer",
+      "company": "ProManage Academy",
+      "image": "https://example.com/images/rashed.png"
+    },
+    "lessons": 40,
+    "assignments": 10,
+    "projects": 5,
+    "studentsJoined": 320,
+    "courseType": "Recorded",
+    "rating": 4.9,
+    "batch": "Batch-2",
+    "coverImage": "https://example.com/cover/business4.png"
+  },
+  {
+    "id": "20",
+    "title": "Business Communication & Negotiation",
+    "category": "Business",
+    "details": "Learn how to communicate effectively in business settings...",
+    "instructor": {
+      "name": "Jannatul Ferdous",
+      "designation": "Corporate Trainer",
+      "company": "BizTalk Solutions",
+      "image": "https://example.com/images/jannat.png"
+    },
+    "lessons": 22,
+    "assignments": 5,
+    "projects": 2,
+    "studentsJoined": 210,
+    "courseType": "Live Class",
+    "rating": 4.6,
+    "batch": "Batch-1",
+    "coverImage": "https://example.com/cover/business5.png"
+  }
+]
