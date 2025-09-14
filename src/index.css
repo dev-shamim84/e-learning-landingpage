@@ -3,3 +3,14 @@
 /* .slick-prev:before, .slick-next:before:hover {
    color: chocolate;
 } */
+
+.slick-dots {
+    position: absolute;
+    bottom: 42px;
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-align: center;
+}
