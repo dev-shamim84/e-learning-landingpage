@@ -7,31 +7,21 @@ const Exprience = () => {
             Trusted by companies of all sizes
           </h3>
         </div>
-        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-5 items-center ">
-          <div>
-            <img src="/src/assets/buffer.png" alt="buffer" />
-          </div>
-          <div>
-            <img
-              src="/src/assets/amazon-logo-amazon-icon-transparent-free-png 1.png"
-              alt="amazon"
-            />
-          </div>
-          <div>
-            <img src="/src/assets/coursera-logo 1.png" alt="coursera" />
-          </div>
-          <div>
-            <img
-              src="/src/assets/google-logo-transparent 1.png"
-              alt="google2"
-            />
-          </div>
-          <div>
-            <img src="/src/assets/Stripe-logo 1.png" alt="stripe" />
-          </div>
-          <div>
-            <img src="/src/assets/hub.png" alt="hub" />
-          </div>
+        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-5 items-center justify-between ">
+          <img src="/src/assets/buffer.png" alt="buffer" />
+
+          <img
+            src="/src/assets/amazon-logo-amazon-icon-transparent-free-png 1.png"
+            alt="amazon"
+          />
+
+          <img src="/src/assets/coursera-logo 1.png" alt="coursera" />
+
+          <img src="/src/assets/google-logo-transparent 1.png" alt="google2" />
+
+          <img src="/src/assets/Stripe-logo 1.png" alt="stripe" />
+
+          <img src="/src/assets/hub.png" alt="hub" />
         </div>
       </div>
     </section>
