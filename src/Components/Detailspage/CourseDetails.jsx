@@ -94,11 +94,10 @@ const CourseDetails = () => {
                 Enroll Now
               </button>
               {/* Back Button */}
-              <Link
-                className="mt-6 ms-5 px-4 py-2 bg-amber-600 text-white font-bold rounded-lg hover:bg-amber-700 transition"
-                to={navigate("/")}
-              >
-                Go Back
+              <Link to={navigate("/")}>
+                <button className="mt-6 ms-5 px-4 py-2 bg-amber-600 text-white font-bold rounded-lg hover:bg-amber-700 transition">
+                  Go Back
+                </button>
               </Link>
             </div>
           </div>

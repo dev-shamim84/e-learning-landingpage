@@ -3,6 +3,7 @@ import BetterLearning from "../Components/Betterlearn/BetterLearning";
 import Exprience from "../Components/Exprience/Exprience";
 import MaxiMIze from "../Components/Maximize/MaxiMIze";
 import OurCourse from "../Components/Ourcourse/OurCourse";
+import TestimonialSlider from "../Components/Testomonial/TestimonialSlider";
 const Home = () => {
   return (
     <>
@@ -11,6 +12,7 @@ const Home = () => {
       <BetterLearning />
       <MaxiMIze />
       <OurCourse />
+      <TestimonialSlider />
     </>
   );
 };

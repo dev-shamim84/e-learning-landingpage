@@ -29,10 +29,10 @@ const OurCourse = () => {
       <div className="container mx-auto px-4 py-6">
         <Animation delay={0.2} direction="up">
           <div className="flex flex-col sm:flex-row items-center justify-between">
-            <h2 className="mb-3 text-4xl font-lexend font-bold">
+            <h2 className="mb-3 text-2xl md:text-4xl font-lexend font-bold">
               Our Featured Courses
             </h2>
-            <div className="space-y-3 space-x-4 font-lexend ">
+            <div className="space-y-3 space-x-4 font-lexend flex flex-col justify-between items-center md:flex-row">
               {categories.map((category, index) => (
                 <button
                   className={`border rounded border-amber-500 px-4 py-2 cursor-pointer ${
