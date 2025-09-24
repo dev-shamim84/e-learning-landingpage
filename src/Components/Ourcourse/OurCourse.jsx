@@ -4,7 +4,7 @@ import Animation from "../Motion/Animation";
 const OurCourse = () => {
   const [courses, setCourses] = useState([]);
   const [filter, setFilter] = useState("All");
-  const [visiable, setVisiable] = useState(4);
+  const [visiable, setVisiable] = useState(3);
   // fetched data form public folder
   useEffect(() => {
     fetch("/course.json")
@@ -25,7 +25,7 @@ const OurCourse = () => {
     setVisiable((prev) => prev + 4);
   };
   return (
-    <section>
+    <section className="py-10">
       <div className="container mx-auto px-4 py-6">
         <Animation delay={0.2} direction="up">
           <div className="flex flex-col sm:flex-row items-center justify-between">
@@ -42,7 +42,7 @@ const OurCourse = () => {
                   }`}
                   onClick={() => {
                     setFilter(category);
-                    setVisiable(4);
+                    setVisiable(3);
                   }}
                   key={index}
                 >

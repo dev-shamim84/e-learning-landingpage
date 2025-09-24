@@ -47,7 +47,7 @@ const CourseGrid = ({ course }) => {
         </p>
       </div>
       <div className="flex justify-center items-center ">
-        <Link className="w-full mt-3 mb-4" to={`/coursedetails/${id}`}>
+        <Link className="w-full mt-3 mb-4" to={`/course/${id}`}>
           <button className="w-full cursor-pointer font-lexend text-[16px] font-semibold bg-amber-500 hover:bg-amber-600 text-white px-3 py-2 rounded transition duration-500 ease-in">
             Course Details
           </button>
