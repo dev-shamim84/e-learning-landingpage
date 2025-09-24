@@ -5,10 +5,10 @@
     "category": "Web",
     "details": "This intensive bootcamp takes you from absolute beginner to professional full-stack developer...",
     "instructor": {
-      "name": "Shamim Hasan",
+      "name": "Arman Ali",
       "designation": "Tech Lead",
       "company": "NextGen Software",
-      "image": "https://example.com/images/arif.png"
+      "image": "https://i.ibb.co.com/WvxxqFt9/Gemini-Generated-Image-b9w7zbb9w7zbb9w7.png"
     },
     "lessons": 60,
     "assignments": 15,
@@ -17,7 +17,8 @@
     "courseType": "Live Class",
     "rating": 4.9,
     "batch": "Batch-4",
-    "coverImage": "https://example.com/cover/web1.png"
+    "coverImage": "https://i.ibb.co.com/r25dvT8j/course-web-1-jpg.jpg",
+    "price": 35000
   },
   {
     "id": "2",
@@ -28,7 +29,7 @@
       "name": "Amit Hasan",
       "designation": "Frontend Engineer",
       "company": "Creative Web Agency",
-      "image": "https://example.com/images/nusrat.png"
+      "image": "https://i.ibb.co.com/S42ZQQYb/Whats-App-Image-2025-09-22-at-11-50-01-ad3b53ef.jpg"
     },
     "lessons": 35,
     "assignments": 10,
@@ -37,7 +38,8 @@
     "courseType": "Recorded",
     "rating": 4.7,
     "batch": "Batch-2",
-    "coverImage": "https://example.com/cover/web2.png"
+    "coverImage": "https://i.ibb.co.com/fGxfz909/course-web-3-fronend.jpg",
+    "price": 28000
   },
   {
     "id": "3",
@@ -45,10 +47,10 @@
     "category": "Web",
     "details": "Learn how to design and build secure, scalable, and high-performing backend systems with Node.js...",
     "instructor": {
-      "name": "Abir Khan Rabbi",
+      "name": "Shamim Hasan",
       "designation": "Software Engineer",
       "company": "CloudTech BD",
-      "image": "https://example.com/images/tanvir.png"
+      "image": "https://i.ibb.co.com/MyfGtxvN/result-0.png"
     },
     "lessons": 40,
     "assignments": 12,
@@ -57,7 +59,8 @@
     "courseType": "Live Class",
     "rating": 4.8,
     "batch": "Batch-1",
-    "coverImage": "https://example.com/cover/web3.png"
+    "coverImage": "https://i.ibb.co.com/q3vQ9bM3/course-web-2-bakend.jpg",
+    "price": 32000
   },
   {
     "id": "4",
@@ -68,7 +71,7 @@
       "name": "Rahim Ahmed",
       "designation": "Full Stack Developer",
       "company": "Tech Innovators Ltd.",
-      "image": "https://example.com/images/rahim.png"
+      "image": "https://i.ibb.co.com/vhqjzsn/rahim-ahmed.jpg"
     },
     "lessons": 55,
     "assignments": 14,
@@ -77,18 +80,19 @@
     "courseType": "Live Class",
     "rating": 4.9,
     "batch": "Batch-3",
-    "coverImage": "https://example.com/cover/web4.png"
+    "coverImage": "https://i.ibb.co.com/HTP0yLSp/course-web-4-jpg.jpg",
+    "price": 40000
   },
   {
     "id": "5",
-    "title": "Advanced JavaScript Mastery",
+    "title": "Python Django",
     "category": "Web",
-    "details": "This course dives deep into advanced JavaScript concepts...",
+    "details": "This course dives deep into advanced Python Django concepts...",
     "instructor": {
       "name": "Sadia Karim",
       "designation": "Senior JavaScript Engineer",
       "company": "GlobalSoft Solutions",
-      "image": "https://example.com/images/sadia.png"
+      "image": "https://i.ibb.co.com/9Hj8dkg/sadia-karim.jpg"
     },
     "lessons": 30,
     "assignments": 8,
@@ -97,7 +101,8 @@
     "courseType": "Recorded",
     "rating": 4.6,
     "batch": "Batch-2",
-    "coverImage": "https://example.com/cover/web5.png"
+    "coverImage": "https://i.ibb.co.com/Df7t0Jd8/course-web-5.jpg",
+    "price": 25000
   },
   {
     "id": "6",
@@ -108,7 +113,7 @@
       "name": "Mehedi Rahman",
       "designation": "Marketing Strategist",
       "company": "BrightMark Digital",
-      "image": "https://example.com/images/mehedi.png"
+      "image": "https://i.ibb.co.com/0nXWkyd/mehedi-rahman.jpg"
     },
     "lessons": 25,
     "assignments": 6,
@@ -117,7 +122,8 @@
     "courseType": "Live Class",
     "rating": 4.7,
     "batch": "Batch-1",
-    "coverImage": "https://example.com/cover/marketing1.png"
+    "coverImage": "https://i.ibb.co.com/b5qPF6j3/course-marketing-1.jpg",
+    "price": 22000
   },
   {
     "id": "7",
@@ -128,7 +134,7 @@
       "name": "Sharmin Akter",
       "designation": "SEO Specialist",
       "company": "RankUp Agency",
-      "image": "https://example.com/images/sharmin.png"
+      "image": "https://i.ibb.co.com/5hNs6jJ/sharmin-akter.jpg"
     },
     "lessons": 20,
     "assignments": 5,
@@ -137,7 +143,8 @@
     "courseType": "Recorded",
     "rating": 4.5,
     "batch": "Batch-2",
-    "coverImage": "https://example.com/cover/marketing2.png"
+    "coverImage": "https://i.ibb.co.com/7tb8rBGM/course-marketing-2.jpg",
+    "price": 18000
   },
   {
     "id": "8",
@@ -148,7 +155,7 @@
       "name": "Tariq Hasan",
       "designation": "Social Media Manager",
       "company": "BuzzWorld Media",
-      "image": "https://example.com/images/tariq.png"
+      "image": "https://i.ibb.co.com/ZLMcdyb/tariq-hasan.jpg"
     },
     "lessons": 28,
     "assignments": 7,
@@ -157,7 +164,8 @@
     "courseType": "Live Class",
     "rating": 4.6,
     "batch": "Batch-3",
-    "coverImage": "https://example.com/cover/marketing3.png"
+    "coverImage": "https://i.ibb.co.com/dJLPPWkK/course-marketing-3.jpg",
+    "price": 26000
   },
   {
     "id": "9",
@@ -168,7 +176,7 @@
       "name": "Farhana Islam",
       "designation": "Content Marketing Specialist",
       "company": "StoryCraft Ltd.",
-      "image": "https://example.com/images/farhana.png"
+      "image": "https://i.ibb.co.com/rcZkZkG/farhana-islam.jpg"
     },
     "lessons": 18,
     "assignments": 4,
@@ -177,7 +185,8 @@
     "courseType": "Recorded",
     "rating": 4.4,
     "batch": "Batch-1",
-    "coverImage": "https://example.com/cover/marketing4.png"
+    "coverImage": "https://i.ibb.co.com/xqyd4VX4/course-marketing-4.jpg",
+    "price": 17000
   },
   {
     "id": "10",
@@ -188,7 +197,7 @@
       "name": "Rafiul Hasan",
       "designation": "PPC Campaign Manager",
       "company": "AdPro Digital",
-      "image": "https://example.com/images/rafiul.png"
+      "image": "https://i.ibb.co.com/WgNRhwV/rafiul-hasan.jpg"
     },
     "lessons": 22,
     "assignments": 5,
@@ -197,7 +206,8 @@
     "courseType": "Live Class",
     "rating": 4.8,
     "batch": "Batch-2",
-    "coverImage": "https://example.com/cover/marketing5.png"
+    "coverImage": "https://i.ibb.co.com/JW8jHZBX/course-marketing-5.jpg",
+    "price": 30000
   },
   {
     "id": "11",
@@ -208,7 +218,7 @@
       "name": "Mahmudul Hasan",
       "designation": "UI/UX Designer",
       "company": "PixelCraft Studio",
-      "image": "https://example.com/images/mahmud.png"
+      "image": "https://i.ibb.co.com/xCdmrHL/mahmudul-hasan.jpg"
     },
     "lessons": 30,
     "assignments": 7,
@@ -217,7 +227,8 @@
     "courseType": "Live Class",
     "rating": 4.7,
     "batch": "Batch-1",
-    "coverImage": "https://example.com/cover/design1.png"
+    "coverImage": "https://i.ibb.co.com/v6dc0g3t/course-design-5.jpg",
+    "price": 24000
   },
   {
     "id": "12",
@@ -228,7 +239,7 @@
       "name": "Sabrina Alam",
       "designation": "Graphic Designer",
       "company": "Designify Agency",
-      "image": "https://example.com/images/sabrina.png"
+      "image": "https://i.ibb.co.com/pz2cJbz/sabrina-alam.jpg"
     },
     "lessons": 40,
     "assignments": 10,
@@ -237,7 +248,8 @@
     "courseType": "Recorded",
     "rating": 4.6,
     "batch": "Batch-2",
-    "coverImage": "https://example.com/cover/design2.png"
+    "coverImage": "https://i.ibb.co.com/3yKKwJK8/course-design-1.jpg",
+    "price": 27000
   },
   {
     "id": "13",
@@ -248,7 +260,7 @@
       "name": "Fahim Khan",
       "designation": "Motion Designer",
       "company": "Creative Animations",
-      "image": "https://example.com/images/fahim.png"
+      "image": "https://i.ibb.co.com/z4LfMpP/fahim-khan.jpg"
     },
     "lessons": 25,
     "assignments": 6,
@@ -257,7 +269,8 @@
     "courseType": "Live Class",
     "rating": 4.8,
     "batch": "Batch-1",
-    "coverImage": "https://example.com/cover/design3.png"
+    "coverImage": "https://i.ibb.co.com/93rwGzyr/course-desing-2.jpg",
+    "price": 26000
   },
   {
     "id": "14",
@@ -268,7 +281,7 @@
       "name": "Ruhul Amin",
       "designation": "Product Designer",
       "company": "NextUI Labs",
-      "image": "https://example.com/images/ruhul.png"
+      "image": "https://i.ibb.co.com/qJ6Mrpx/ruhul-amin.jpg"
     },
     "lessons": 32,
     "assignments": 8,
@@ -277,7 +290,8 @@
     "courseType": "Recorded",
     "rating": 4.5,
     "batch": "Batch-3",
-    "coverImage": "https://example.com/cover/design4.png"
+    "coverImage": "https://i.ibb.co.com/kgw5V5gx/course-design-3.jpg",
+    "price": 23000
   },
   {
     "id": "15",
@@ -288,7 +302,7 @@
       "name": "Niloy Dutta",
       "designation": "Senior Graphic Artist",
       "company": "Artify Studio",
-      "image": "https://example.com/images/niloy.png"
+      "image": "https://i.ibb.co.com/1rdVgVy/niloy-dutta.jpg"
     },
     "lessons": 36,
     "assignments": 9,
@@ -297,106 +311,7 @@
     "courseType": "Live Class",
     "rating": 4.7,
     "batch": "Batch-2",
-    "coverImage": "https://example.com/cover/design5.png"
-  },
-  {
-    "id": "16",
-    "title": "Entrepreneurship & Startup Strategy",
-    "category": "Business",
-    "details": "Learn how to develop business ideas, create a startup plan, secure funding...",
-    "instructor": {
-      "name": "Abdullah Al Mamun",
-      "designation": "Startup Mentor",
-      "company": "Venture Hub",
-      "image": "https://example.com/images/mamun.png"
-    },
-    "lessons": 30,
-    "assignments": 7,
-    "projects": 3,
-    "studentsJoined": 280,
-    "courseType": "Live Class",
-    "rating": 4.8,
-    "batch": "Batch-1",
-    "coverImage": "https://example.com/cover/business1.png"
-  },
-  {
-    "id": "17",
-    "title": "Financial Management for Businesses",
-    "category": "Business",
-    "details": "This course covers budgeting, forecasting, investment strategies...",
-    "instructor": {
-      "name": "Shamima Sultana",
-      "designation": "Financial Analyst",
-      "company": "FinCorp Ltd.",
-      "image": "https://example.com/images/shamima.png"
-    },
-    "lessons": 28,
-    "assignments": 6,
-    "projects": 3,
-    "studentsJoined": 240,
-    "courseType": "Recorded",
-    "rating": 4.6,
-    "batch": "Batch-2",
-    "coverImage": "https://example.com/cover/business2.png"
-  },
-  {
-    "id": "18",
-    "title": "Leadership & Management Skills",
-    "category": "Business",
-    "details": "Students will learn essential leadership techniques, team management...",
-    "instructor": {
-      "name": "Hasan Mahmud",
-      "designation": "Business Coach",
-      "company": "Inspire Consulting",
-      "image": "https://example.com/images/hasan.png"
-    },
-    "lessons": 35,
-    "assignments": 8,
-    "projects": 4,
-    "studentsJoined": 260,
-    "courseType": "Live Class",
-    "rating": 4.7,
-    "batch": "Batch-3",
-    "coverImage": "https://example.com/cover/business3.png"
-  },
-  {
-    "id": "19",
-    "title": "Project Management Professional (PMP) Prep",
-    "category": "Business",
-    "details": "Prepare for the PMP certification with a detailed guide...",
-    "instructor": {
-      "name": "Rashedul Karim",
-      "designation": "PMP Certified Trainer",
-      "company": "ProManage Academy",
-      "image": "https://example.com/images/rashed.png"
-    },
-    "lessons": 40,
-    "assignments": 10,
-    "projects": 5,
-    "studentsJoined": 320,
-    "courseType": "Recorded",
-    "rating": 4.9,
-    "batch": "Batch-2",
-    "coverImage": "https://example.com/cover/business4.png"
-  },
-  {
-    "id": "20",
-    "title": "Business Communication & Negotiation",
-    "category": "Business",
-    "details": "Learn how to communicate effectively in business settings...",
-    "instructor": {
-      "name": "Jannatul Ferdous",
-      "designation": "Corporate Trainer",
-      "company": "BizTalk Solutions",
-      "image": "https://example.com/images/jannat.png"
-    },
-    "lessons": 22,
-    "assignments": 5,
-    "projects": 2,
-    "studentsJoined": 210,
-    "courseType": "Live Class",
-    "rating": 4.6,
-    "batch": "Batch-1",
-    "coverImage": "https://example.com/cover/business5.png"
+    "coverImage": "https://i.ibb.co.com/pHDSpyQ/course-design-4.jpg",
+    "price": 28000
   }
 ]
