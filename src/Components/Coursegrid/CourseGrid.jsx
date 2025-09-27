@@ -30,8 +30,8 @@ const CourseGrid = ({ course }) => {
       <div className="my-3 flex-grow">
         <h5 className="text-[20px] font-semibold font-lexend">{title}</h5>
       </div>
-      <div className="flex justify-between items-center flex-wrap">
-        <div className="flex items-center space-x-3 space-y-3 font-semibold font-lexend text-[#b3abab]">
+      <div className="flex justify-between flex-wrap items-center ">
+        <div className="flex items-center space-x-3  font-semibold font-lexend text-[#b3abab]">
           <Rating rating={rating} />
           <h4>Reviews {rating}K</h4>
         </div>

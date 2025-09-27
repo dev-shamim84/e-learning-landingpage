@@ -28,11 +28,11 @@ const OurCourse = () => {
     <section className="py-10">
       <div className="container mx-auto px-4 py-6">
         <Animation delay={0.2} direction="up">
-          <div className="flex flex-col sm:flex-row items-center justify-between">
+          <div className="flex flex-col md:flex-row items-center md:justify-between justify-center ">
             <h2 className="mb-3 text-2xl md:text-4xl font-lexend font-bold">
               Our Featured Courses
             </h2>
-            <div className="space-y-3 space-x-4 font-lexend flex flex-col justify-between items-center md:flex-row">
+            <div className="space-y-3 space-x-4 font-lexend  ">
               {categories.map((category, index) => (
                 <button
                   className={`border rounded border-amber-500 px-4 py-2 cursor-pointer ${
@@ -53,7 +53,7 @@ const OurCourse = () => {
           </div>
         </Animation>
         {/* Course Grid Here*/}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 mt-5">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 mt-5">
           {filterCourse.slice(0, visiable).map((course) => (
             <Animation delay={0.2} direction="up">
               <CourseGrid key={course.id} course={course} />
