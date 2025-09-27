@@ -24,19 +24,21 @@ const CourseDetails = () => {
     <section>
       {/* Course Details Layout */}
       <div className="container mx-auto px-4 py-6">
-        <Animation delay={0.2} direction="up">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mt-24">
-            {/* Left Side - Cover Image */}
-            <div>
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mt-24">
+          {/* Left Side - Cover Image */}
+          <div>
+            <Animation delay={0.2} direction="left">
               <img
                 src={coverImage}
                 alt={title}
                 className="w-full h-full rounded-xl shadow-md"
               />
-            </div>
+            </Animation>
+          </div>
 
-            {/* Right Side - Details */}
-            <div className="space-y-4">
+          {/* Right Side - Details */}
+          <div className="space-y-4">
+            <Animation delay={0.2} direction="right">
               <h1 className="text-3xl font-bold font-lexend">{title}</h1>
               <p className="text-gray-600">{details}</p>
 
@@ -99,9 +101,9 @@ const CourseDetails = () => {
                   Go Back
                 </button>
               </Link>
-            </div>
+            </Animation>
           </div>
-        </Animation>
+        </div>
       </div>
     </section>
   );
