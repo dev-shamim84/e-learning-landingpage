@@ -4,7 +4,7 @@ import student from "../../assets/students 1.png";
 import videoediting from "../../assets/video-edition 1.png";
 import Animation from "../Motion/Animation";
 
-const MaxiMIze = () => {
+const Maxmize = () => {
   return (
     <section className="bg-[#FFF2E5] py-15">
       <div className="container mx-auto px-4 py-6">
@@ -59,4 +59,4 @@ const MaxiMIze = () => {
   );
 };
 
-export default MaxiMIze;
+export default Maxmize;

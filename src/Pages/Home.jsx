@@ -4,7 +4,7 @@ import BlogSection from "../Components/Blogsection/BlogSection";
 import Exprience from "../Components/Exprience/Exprience";
 import Instructor from "../Components/Instructure/Instructor";
 import JoinUs from "../Components/Joinsection/JoinUs";
-import MaxiMIze from "../Components/Maximize/MaxiMIze";
+import Maxmize from "../Components/Maximize/Maxmize";
 import OurCourse from "../Components/Ourcourse/OurCourse";
 import TestimonialSlider from "../Components/Testomonial/TestimonialSlider";
 const Home = () => {
@@ -13,7 +13,7 @@ const Home = () => {
       <Benner />
       <Exprience />
       <BetterLearning />
-      <MaxiMIze />
+      <Maxmize />
       <OurCourse />
       <TestimonialSlider />
       <Instructor />

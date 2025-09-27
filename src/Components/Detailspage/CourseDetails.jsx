@@ -26,14 +26,13 @@ const CourseDetails = () => {
       <div className="container mx-auto px-4 py-6">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mt-24">
           {/* Left Side - Cover Image */}
-          <div>
-            <Animation delay={0.2} direction="left">
-              <img
-                src={coverImage}
-                alt={title}
-                className="w-full h-full rounded-xl shadow-md"
-              />
-            </Animation>
+
+          <div className="h-full">
+            <img
+              src={coverImage}
+              alt={title}
+              className="w-full h-full object-cover rounded-xl shadow-md"
+            />
           </div>
 
           {/* Right Side - Details */}
@@ -92,12 +91,12 @@ const CourseDetails = () => {
               </div>
 
               {/* Enroll Button */}
-              <button className=" mt-6 px-4 py-2 bg-amber-600 text-white font-bold rounded-lg hover:bg-amber-700 transition">
+              <button className=" mt-6 px-3 py-2 bg-amber-600 text-white font-semibold rounded hover:bg-amber-700 transition">
                 Enroll Now
               </button>
               {/* Back Button */}
               <Link to={navigate("/")}>
-                <button className="mt-6 ms-5 px-4 py-2 bg-amber-600 text-white font-bold rounded-lg hover:bg-amber-700 transition">
+                <button className="mt-6 ms-5 px-3 py-2 bg-amber-600 text-white font-semibold rounded hover:bg-amber-700 transition">
                   Go Back
                 </button>
               </Link>
