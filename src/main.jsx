@@ -7,6 +7,7 @@ import About from "./Pages/About";
 import { StrictMode } from "react";
 import ErrorPage from "./Components/Errorpage/ErrorPage";
 import CourseDetails from "./Components/Detailspage/CourseDetails";
+import BlogDetails from "./Components/Blogdetail/BlogDetails";
 
 const router = createBrowserRouter([
   {
@@ -26,6 +27,11 @@ const router = createBrowserRouter([
         path: "course/:id",
         element: <CourseDetails />,
         loader: () => fetch("/course.json"),
+      },
+      {
+        path: "blog/:id",
+        element: <BlogDetails />,
+        loader: () => fetch("/blog.json"),
       },
     ],
   },

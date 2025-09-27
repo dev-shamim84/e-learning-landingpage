@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "title": "The Future of Web Development: Why MERN Stack Leads the Way",
+    "category": "Web",
+    "coverImage": "https://i.ibb.co.com/qMncrKng/Image-Replace-1.png",
+    "publishedDate": "2025-09-01",
+    "details": "Web development is evolving rapidly, and the demand for full stack developers is higher than ever before. The MERN stack—MongoDB, Express.js, React, and Node.js—has emerged as one of the most powerful solutions for building modern web applications. Its greatest advantage is that it uses JavaScript across both frontend and backend, making development faster and more efficient. Companies today prefer MERN stack developers because they can handle everything from UI design to database management. As we move further into 2025, the MERN stack is expected to dominate the job market and remain one of the most valuable skills for aspiring developers."
+  },
+  {
+    "id": "2",
+    "title": "Digital Marketing Trends You Must Follow in 2025",
+    "category": "Marketing",
+    "coverImage": "https://i.ibb.co.com/YTq42Pdm/Image-Replace.png",
+    "publishedDate": "2025-09-05",
+    "details": "Digital marketing has become the backbone of modern businesses, and it continues to evolve every year. In 2025, businesses will rely more heavily on artificial intelligence, automation, and personalized campaigns to reach their target audiences. Content marketing and video marketing will remain at the top, while influencer partnerships will play an even greater role. Search engines and social media algorithms are also changing, which means marketers must stay updated to remain competitive. Data-driven decision-making will define success, making analytics and consumer insights critical for every digital marketing strategy."
+  },
+  {
+    "id": "3",
+    "title": "Creative Design Principles Every Designer Should Master",
+    "category": "Design",
+    "coverImage": "https://i.ibb.co.com/Mx2RmPsr/Image-Replace-1.png",
+    "publishedDate": "2025-09-08",
+    "details": "Design is not just about creating visually appealing graphics—it’s about building meaningful user experiences. Every successful designer must understand the psychology of users, not just color palettes and typography. Minimalism, dark mode, and interactive animations are expected to dominate design trends in 2025. Tools like Figma and Adobe XD will remain essential, but what will truly set designers apart is their ability to connect design with business goals. A great designer can transform a simple interface into a powerful experience that keeps users engaged and loyal to a brand."
+  }
+ 
+]

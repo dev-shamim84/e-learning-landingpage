@@ -1,5 +1,6 @@
 import Benner from "../Components/Benar/Benner";
 import BetterLearning from "../Components/Betterlearn/BetterLearning";
+import BlogSection from "../Components/Blogsection/BlogSection";
 import Exprience from "../Components/Exprience/Exprience";
 import Instructor from "../Components/Instructure/Instructor";
 import JoinUs from "../Components/Joinsection/JoinUs";
@@ -17,6 +18,7 @@ const Home = () => {
       <TestimonialSlider />
       <Instructor />
       <JoinUs />
+      <BlogSection />
     </>
   );
 };
